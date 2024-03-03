@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button">
+        <item name="android:textSize">32dp</item>
+        <item name="android:text">Go Next</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">68dp</item>
+    </style>
+    <style name="TextView">
+        <item name="android:textSize">32dp</item>
+        <item name="android:background">@android:color/holo_blue_light</item>
+        <item name="android:text">Wheather now</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
